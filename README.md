@@ -22,7 +22,7 @@ WebGLでも使えるようにWebRTCに対応予定です。
 # 機能
 - オブジェクトの同期
 - NetworkInstantiate
-- NetworkDestory
+- NetworkDestroy
 - RPC -Remote Procedure Call-
 - ルーム作成、参加、検索
 - パケットの暗号化(AES128)
