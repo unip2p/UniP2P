@@ -49,7 +49,9 @@ Unity2018.3以降であればそのまま使えますが、それ以前のバー
 
 - 2 [Release](https://github.com/unip2p/UniP2P/releases)からUniP2P.{version}.unitypackageをダウンロードして、Unityにインポートしてください。
 
-- 3 手軽にテストが出来るようにマッチングサンプルとTanks Demoを用意しています。
+- 3 マッチングサーバーを作成してその情報をMatchingSettingsに書き込む必要があります。[ここ](https://github.com/unip2p/SimpleMatchingServer-Node)を参照してください。
+
+- 4 手軽にテストが出来るようにMatching Sample、Tanks Demo、Benchmarkを用意しています。
 
 # 使用したライブラリ
 
