@@ -1,0 +1,12 @@
+{
+    "name": "jp.irossoftware.unip2p",
+    "displayName": "UniP2P",
+    "version": "0.1.0",
+    "unity": "2018.3",
+    "description": "UniP2PはUnityで手軽にP2P通信を実現するためのライブラリです。",
+    "keywords": [
+        "Script",
+        "Network"
+    ],
+    "dependencies": {}
+}
