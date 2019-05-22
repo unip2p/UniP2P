@@ -47,7 +47,7 @@ Unity2018.3以降であればそのまま使えますが、それ以前のバー
 # 使い方
 - 1 依存ライブラリを導入してください。
 
-- 2 [Release](https://github.com/iRosSoftware/UniP2P/releases)からUniP2P.{version}.unitypackageをダウンロードして、Unityにインポートしてください。
+- 2 [Release](https://github.com/unip2p/UniP2P/releases)からUniP2P.{version}.unitypackageをダウンロードして、Unityにインポートしてください。
 
 - 3 手軽にテストが出来るようにマッチングサンプルとTanks Demoを用意しています。
 
