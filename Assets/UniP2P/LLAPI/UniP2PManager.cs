@@ -11,7 +11,7 @@ namespace UniP2P
 {
     public static class UniP2PManager
     {
-        public const string Version = "0.2.0";
+        public const string VERSION = "0.2.0";
 
         public static ISocket Socket;
 
