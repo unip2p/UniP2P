@@ -4112,7 +4112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac4f2cb23bdbe4d459cf071a8e1a6c60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GamePlaySceneName: Tanks
+  GamePlaySceneName: Chat
   RoomNodePrefab: {fileID: 5602250427492105727, guid: c362455eb8f872e42b671698b41c6f36,
     type: 3}
   RoomNodesRoot: {fileID: 1390990282}

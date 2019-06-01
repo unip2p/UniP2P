@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14c592477a066174c9660b563941803a, type: 3}
   m_Name: MatchingSettings
   m_EditorClassIdentifier: 
-  MatchingServerURI: 
-  MatchingGameKey: 
-  MatchingSecretKey: 
+  MatchingServerURI: https://unip2p-fef39d87.herokuapp.com
+  MatchingGameKey: 0096c99e-6ac8-4e36-8b5a-dd3c0107901d
+  MatchingSecretKey: 740ce38f-93c3-4b9b-9192-e49d586d1502

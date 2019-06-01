@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UniP2P/Example/Benchmark/Scenes/Benchmark.unity
     guid: 7e7ab2b0a9fa4438b82ef7824c27f2ac
+  - enabled: 1
+    path: Assets/UniP2P/Example/Chat/Chat.unity
+    guid: ce1f2aa9a530ec444aee19530fa74acf
   m_configObjects: {}
